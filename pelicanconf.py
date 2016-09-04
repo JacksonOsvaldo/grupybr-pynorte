@@ -83,6 +83,11 @@ SOCIAL_LINKS = (
         "text": "Telegram",
     },
     {
+        "href": "http://facebook.com/pynorte",
+        "icon": "fa-facebook",
+        "text": "Facebook",
+    },
+    {
         "href": "https://groups.google.com/d/forum/pynorte",
         "icon": "fa-envelope",
         "text": "Lista de e-mail",
