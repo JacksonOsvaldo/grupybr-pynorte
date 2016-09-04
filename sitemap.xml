@@ -5,37 +5,44 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://pynorte.python.org.br/</loc>
-<lastmod>2016-08-31T16:51:34-00:00</lastmod>
+<lastmod>2016-09-04T10:07:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.2</priority>
 </url>
 
 <url>
 <loc>http://pynorte.python.org.br/archives.html</loc>
-<lastmod>2016-08-31T16:51:34-00:00</lastmod>
+<lastmod>2016-09-04T10:07:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.2</priority>
 </url>
 
 <url>
 <loc>http://pynorte.python.org.br/comunidade</loc>
-<lastmod>2016-08-31T16:51:34-00:00</lastmod>
+<lastmod>2016-09-04T10:07:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>http://pynorte.python.org.br/index</loc>
-<lastmod>2016-08-31T16:51:34-00:00</lastmod>
+<lastmod>2016-09-04T10:07:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>http://pynorte.python.org.br/membros</loc>
-<lastmod>2016-08-31T16:51:34-00:00</lastmod>
+<lastmod>2016-09-04T10:07:17-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
+</url>
+
+<url>
+<loc>http://pynorte.python.org.br/blog/meetup-manaus</loc>
+<lastmod>2016-09-04T11:00:00-04:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
 </url>
 
 <url>
@@ -61,21 +68,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://pynorte.python.org.br/blog/categorias/noticias</loc>
-<lastmod>2016-03-06T09:17:00-04:00</lastmod>
+<lastmod>2016-09-04T11:00:00-04:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.2</priority>
+</url>
+
+<url>
+<loc>http://pynorte.python.org.br/blog/tags/meetup</loc>
+<lastmod>2016-09-04T11:00:00-04:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.2</priority>
+</url>
+
+<url>
+<loc>http://pynorte.python.org.br/blog/tags/manaus</loc>
+<lastmod>2016-09-04T11:00:00-04:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.2</priority>
 </url>
 
 <url>
 <loc>http://pynorte.python.org.br/blog/tags/site</loc>
-<lastmod>2016-03-06T09:17:00-04:00</lastmod>
+<lastmod>2016-09-04T11:00:00-04:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.2</priority>
 </url>
 
 <url>
 <loc>http://pynorte.python.org.br/blog/autores/nilo-menezes</loc>
-<lastmod>2016-03-06T09:17:00-04:00</lastmod>
+<lastmod>2016-09-04T11:00:00-04:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.2</priority>
 </url>
