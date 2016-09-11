@@ -20,7 +20,7 @@ Para utilizar este site primeiramente faça um *fork* do projeto e em seguida cl
 
 .. code::
 
-    $ git clone --recursive git@github.com:PyNorte/grupybr-pynorte.git && cd grupybr-pynorte
+    $ git clone --recursive https://github.com/PyNorte/grupybr-pynorte.git && cd grupybr-pynorte
 
 
 Em seguida crie um *Virtual Environment* e instale todos os pré-requisitos do Pelican:
