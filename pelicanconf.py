@@ -53,10 +53,10 @@ NAVBAR_HOME_LINKS = [
         "title": "Membros",
         "href": "membros",
     },
-    {
-        "title": "Blog",
-        "href": "blog",
-    },
+#    {
+#        "title": "Blog",
+#        "href": "blog",
+#    },
 ]
 
 # Navbar Links do Blog
@@ -298,7 +298,7 @@ MALT_HOME = [
     # }
 ]  # end MALT_HOME
 
-PLUGINS = [
+PLUGINS = PLUGINS + [
      'pelican_youtube',
  ]
 

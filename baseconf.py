@@ -31,7 +31,8 @@ AUTHOR_SAVE_AS = 'blog/autores/{slug}/index.html'
 AUTHORS_URL = 'blog/autores'
 AUTHORS_SAVE_AS = 'blog/autores/index.html'
 
-INDEX_SAVE_AS = "blog/index.html"
+#INDEX_SAVE_AS = "blog/index.html"
+INDEX_SAVE_AS = "index.html"
 
 PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
