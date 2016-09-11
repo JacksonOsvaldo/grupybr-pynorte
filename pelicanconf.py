@@ -78,7 +78,7 @@ NAVBAR_BLOG_LINKS = NAVBAR_HOME_LINKS + [
 # Links sociais do rodapé
 SOCIAL_LINKS = (
     {
-        "href": "https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA",
+        "href": "bit.ly/pynorte",
         "icon": "fa-paper-plane",
         "text": "Telegram",
     },
@@ -172,6 +172,10 @@ MEMBROS = OrderedDict((
             "nome": "Breno Thales",
             "href": "https://br.linkedin.com/in/breno-thales-2aa8631b/pt",
         }
+    }),
+    ("João Soares", {
+         "github": "joaosr",
+         "twitter": "@joao_mnl"
     }),
 ))
 
@@ -293,5 +297,9 @@ MALT_HOME = [
     #     ]
     # }
 ]  # end MALT_HOME
+
+PLUGINS = [
+     'pelican_youtube',
+ ]
 
 from themes.malt.functions import *

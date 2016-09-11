@@ -21,3 +21,4 @@ smartypants
 typogrify
 unidecode
 ghp-import
+pelican-youtube==0.2.0
