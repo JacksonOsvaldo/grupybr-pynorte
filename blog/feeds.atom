@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Norte</title><link href="http://pynorte.python.org.br/" rel="alternate"></link><link href="http://pynorte.python.org.br/blog/feeds.atom" rel="self"></link><id>http://pynorte.python.org.br/</id><updated>2016-09-10T19:00:00-04:00</updated><entry><title>Sétimo Hangout</title><link href="http://pynorte.python.org.br/blog/setimo-hangout" rel="alternate"></link><published>2016-09-10T19:00:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-09-10:blog/setimo-hangout</id><summary type="html">&lt;p&gt;Ontem realizamos nosso sétimo hangout. A gravação pode ser &lt;a class="reference external" href="https://www.youtube.com/watch?v=DCEkJhSBGsc"&gt;vista aqui&lt;/a&gt;.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Norte</title><link href="http://pynorte.python.org.br/" rel="alternate"></link><link href="http://pynorte.python.org.br/blog/feeds.atom" rel="self"></link><id>http://pynorte.python.org.br/</id><updated>2016-09-10T19:00:00-04:00</updated><entry><title>Sétimo Hangout</title><link href="http://pynorte.python.org.br/blog/setimo-hangout" rel="alternate"></link><published>2016-09-10T19:00:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-09-10:blog/setimo-hangout</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;Ontem realizamos nosso sétimo hangout. A gravação pode ser &lt;a class="reference external" href="https://www.youtube.com/watch?v=DCEkJhSBGsc"&gt;vista aqui&lt;/a&gt;.
 A apresentação pode ser baixada &lt;a class="reference external" href="/images/hangouts/16-09-02/setimohangout_geradores_de_sites_estaticos.pdf"&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;div class="youtube"&gt;&lt;iframe src="https://www.youtube.com/embed/DCEkJhSBGsc" width="560" height="315" allowfullscreen seamless frameBorder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;div class="youtube"&gt;&lt;iframe allowfullscreen="" frameborder="0" height="315" seamless="" src="https://www.youtube.com/embed/DCEkJhSBGsc" width="560"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/blockquote&gt;
 &lt;p&gt;Realizada por Nilo Menezes e Fábio Luz, a apresentação foi dividia em duas partes.
 A primeira parte abordou aspectos gerais de sites estáticos x dinâmicos e sobre a contrução de um gerador de sites estáticos em Python. A segunda parte mostrou a utilização do Pelican com Travis-CI e GitHub pages de forma a gerar sites automaticamente e com hospedagem gratuita.&lt;/p&gt;
-&lt;p&gt;O próximo hangout está agendado para sábado, dia primeiro de outubro. O tema provisório é data science, mas ainda aguardamos confirmação sobre os apresentadores e o assunto final.&lt;/p&gt;
-</summary><category term="hangout"></category></entry><entry><title>Meetup Manaus</title><link href="http://pynorte.python.org.br/blog/meetup-manaus" rel="alternate"></link><published>2016-09-04T11:00:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-09-04:blog/meetup-manaus</id><summary type="html">&lt;p&gt;Ontem realizamos o primeiro Meetup PyNorte em Manaus! Aproximadamente 10 pessoas participaram na sede da &lt;a class="reference external" href="http://cardumecoworking.com.br/"&gt;Cardume Coworking&lt;/a&gt; e outras 5 via hangout.&lt;/p&gt;
+&lt;p&gt;O próximo hangout está agendado para sábado, dia primeiro de outubro. O tema provisório é data science, mas ainda aguardamos confirmação sobre os apresentadores e o assunto final.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</summary><category term="hangout"></category></entry><entry><title>Meetup Manaus</title><link href="http://pynorte.python.org.br/blog/meetup-manaus" rel="alternate"></link><published>2016-09-04T11:00:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-09-04:blog/meetup-manaus</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;Ontem realizamos o primeiro Meetup PyNorte em Manaus! Aproximadamente 10 pessoas participaram na sede da &lt;a class="reference external" href="http://cardumecoworking.com.br/"&gt;Cardume Coworking&lt;/a&gt; e outras 5 via hangout.&lt;/p&gt;
 &lt;p&gt;Infelizmente o evento não foi gravado, mas temos algumas fotos para relembrar o encontro.&lt;/p&gt;
-&lt;img alt="participantes do primeiro meetup PyNorte - Manaus" class="align-center" src="/images/meetups/manaus/160903/portrait.jpg" /&gt;
+&lt;img alt="participantes do primeiro meetup PyNorte - Manaus" class="align-center" src="/images/meetups/manaus/160903/portrait.jpg" style="width: 1280px; height: auto; max-width: 100%;"/&gt;
 &lt;p&gt;O Bruno Ábia apresentou uma palestra sobre Webscrapping com Python.&lt;/p&gt;
-&lt;img alt="" class="responsive-img" src="/images/meetups/manaus/160903/webscrapping.jpg" /&gt;
-&lt;img alt="" class="align-center" src="/images/meetups/manaus/160903/sala1.jpg" /&gt;
-&lt;img alt="" class="align-center" src="/images/meetups/manaus/160903/chamada.jpg" /&gt;
+&lt;img alt="" class="responsive-img" src="/images/meetups/manaus/160903/webscrapping.jpg" style="width: 720px; height: auto; max-width: 100%;"/&gt;
+&lt;img alt="" class="align-center" src="/images/meetups/manaus/160903/sala1.jpg" style="width: 2048px; height: auto; max-width: 100%;"/&gt;
+&lt;img alt="" class="align-center" src="/images/meetups/manaus/160903/chamada.jpg" style="width: 678px; height: auto; max-width: 100%;"/&gt;
 &lt;p&gt;Nossos agradecimentos à &lt;a class="reference external" href="http://cardumecoworking.com.br/"&gt;Cardume Coworking&lt;/a&gt;, ao Bruno Ábia e aos organizadores do evento!&lt;/p&gt;
 &lt;p&gt;Sábado dia 10/09/16 temos nosso &lt;a class="reference external" href="http://bit.ly/pynortehangout7"&gt;Sétimo Hangout&lt;/a&gt;  sobre geradores de sites estáticos. Participe!&lt;/p&gt;
-&lt;img alt="" class="align-center" src="/images/meetups/manaus/160903/aviso.png" /&gt;
-&lt;p&gt;O objetivo do PyNorte é criar um grupo de programadores Python na região Norte do Brasil. Estamos com uma meta ambiciosa de ano que vem organizarmos um evento presencial em Manaus, uma conferência PyNorte. Gostou da ideia? Participe de nosso grupo no &lt;a class="reference external" href="http://bit.ly/pynorte"&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
-</summary><category term="site"></category><category term="meetup"></category><category term="manaus"></category></entry><entry><title>Terceiro Hangout</title><link href="http://pynorte.python.org.br/blog/terceiro-hangout" rel="alternate"></link><published>2016-03-06T09:17:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-03-06:blog/terceiro-hangout</id><summary type="html">&lt;p&gt;Realizamos nosso segundo hangout ontem, 05/03/2016.
+&lt;img alt="" class="align-center" src="/images/meetups/manaus/160903/aviso.png" style="width: 450px; height: auto; max-width: 100%;"/&gt;
+&lt;p&gt;O objetivo do PyNorte é criar um grupo de programadores Python na região Norte do Brasil. Estamos com uma meta ambiciosa de ano que vem organizarmos um evento presencial em Manaus, uma conferência PyNorte. Gostou da ideia? Participe de nosso grupo no &lt;a class="reference external" href="http://bit.ly/pynorte"&gt;Telegram&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</summary><category term="site"></category><category term="meetup"></category><category term="manaus"></category></entry><entry><title>Terceiro Hangout</title><link href="http://pynorte.python.org.br/blog/terceiro-hangout" rel="alternate"></link><published>2016-03-06T09:17:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-03-06:blog/terceiro-hangout</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;Realizamos nosso segundo hangout ontem, 05/03/2016.
 Se você não pôde assistir, clique &lt;a class="reference external" href="https://www.youtube.com/watch?v=v0ZeYYygJcU"&gt;aqui&lt;/a&gt; para assistir a gravação no YouTube.&lt;/p&gt;
 &lt;div class="section" id="proximo-hangout"&gt;
 &lt;h2&gt;Próximo Hangout&lt;/h2&gt;
@@ -37,7 +35,7 @@ A data prevista é &lt;strong&gt;02/04/2016&lt;/strong&gt; (primeiro sábado do 
 &lt;li&gt;Programação Assíncrona no Python 3.5 - Nilo Menezes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;A imagem para chamadas e divulgação:&lt;/p&gt;
-&lt;img alt="" src="/images/hc/hc3.png" /&gt;
+&lt;img alt="" src="/images/hc/hc3.png" style="width: 450px; height: auto; max-width: 100%;"/&gt;
 &lt;p&gt;Lembrando que esta imagem é criada por um script do nosso grupo: &lt;a class="reference external" href="https://github.com/PyNorte/aviso"&gt;avisos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ainda temos espaço para outras apresentações!
 Envie suas ideis e propostas para nosso grupo no &lt;a class="reference external" href="https://telegram.me/joinchat/COYq6QM8RkebVUVK1WxRHQ"&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
@@ -57,8 +55,7 @@ O check list abaixo vai nos ajudar a melhorar a qualidade do som e os próximos 
 &lt;li&gt;Software do Hangouts On Air do Google é muito bom, mas a interface é complicada. O Hangouts On Air é diferente de um Hangout normal, pois é gravado e transmitido ao vivo pelo YouTube. Se você estiver organizando o hangout, faça vários testes com um amigo antes do horário da gravação. O Hangout disponibiliza um link público para todos verem o vídeo, mas você também precisa enviar convites para as pessoas que participarão do Hangout.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;
-&lt;/div&gt;
-</summary><category term="site"></category></entry><entry><title>Segundo Hangout</title><link href="http://pynorte.python.org.br/blog/segundo-hangout" rel="alternate"></link><published>2016-02-13T14:41:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-02-13:blog/segundo-hangout</id><summary type="html">&lt;p&gt;O primeiro Hangout de nosso grupo foi realizado em 06/02/2016.
+&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</summary><category term="site"></category></entry><entry><title>Segundo Hangout</title><link href="http://pynorte.python.org.br/blog/segundo-hangout" rel="alternate"></link><published>2016-02-13T14:41:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-02-13:blog/segundo-hangout</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;O primeiro Hangout de nosso grupo foi realizado em 06/02/2016.
 Se você não pôde assistir, clique &lt;a class="reference external" href="https://youtu.be/P2Doz7QMmZI"&gt;aqui&lt;/a&gt; para assistir a gravação no YouTube.&lt;/p&gt;
 &lt;p&gt;Já começamos a organizar o segundo hangout!
 A data prevista é 05.03.2016 (primeiro sábado do mês de março). Horário:&lt;/p&gt;
@@ -74,8 +71,7 @@ A data prevista é 05.03.2016 (primeiro sábado do mês de março). Horário:&lt
 &lt;/ul&gt;
 &lt;p&gt;Ainda temos espaço para outras apresentações!
 Envie suas ideis e propostas para nosso grupo no Telegram.&lt;/p&gt;
-&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;
-</summary><category term="site"></category></entry><entry><title>Primeiros Passos</title><link href="http://pynorte.python.org.br/blog/primeiros-passos" rel="alternate"></link><published>2016-01-13T23:14:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-01-13:blog/primeiros-passos</id><summary type="html">&lt;p&gt;Finalmente começamos a orgnanizar nosso grupo!
+&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</summary><category term="site"></category></entry><entry><title>Primeiros Passos</title><link href="http://pynorte.python.org.br/blog/primeiros-passos" rel="alternate"></link><published>2016-01-13T23:14:00-04:00</published><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-01-13:blog/primeiros-passos</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;Finalmente começamos a orgnanizar nosso grupo!
 O site já está no ar, assim como nossa lista de mensagens.&lt;/p&gt;
 &lt;p&gt;O primeiro objetivo é organizar uma agenda de hangouts.
 A data sugerida é que sejam no premeiro sábado de cada mês.
@@ -96,5 +92,4 @@ Devemos ter tempo para nos apresentarmos e conversar um pouco também.&lt;/p&gt;
 &lt;li&gt;Apresentação de Gestão da Data e Hora do Python com fusos horários - Nilo Menezes&lt;/li&gt;
 &lt;li&gt;Decidir as próximas apresentações&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;
-</summary><category term="site"></category></entry></feed>
+&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</summary><category term="site"></category></entry></feed>
