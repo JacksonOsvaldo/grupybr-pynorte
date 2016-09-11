@@ -10,7 +10,7 @@ markdown
 markupsafe
 mdx-video
 paramiko
-pelican==3.6
+pelican>=3.6,<3.7
 pillow
 pycrypto
 pygments
@@ -20,5 +20,5 @@ six
 smartypants
 typogrify
 unidecode
-ghp-import
+ghp-import2
 pelican-youtube==0.2.0
