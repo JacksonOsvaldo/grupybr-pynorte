@@ -78,7 +78,7 @@ NAVBAR_BLOG_LINKS = NAVBAR_HOME_LINKS + [
 # Links sociais do rodapé
 SOCIAL_LINKS = (
     {
-        "href": "bit.ly/pynorte",
+        "href": "http://bit.ly/pynorte",
         "icon": "fa-paper-plane",
         "text": "Telegram",
     },
